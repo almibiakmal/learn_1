@@ -1,0 +1,6 @@
+Komentar dalam bahasa pemrograman PHP terbagi menjadi 3 tipe, yaitu:
+a. Tipe 1, komentar ini menggunakan tanda "//"(garing 2 kali)
+b. Tipe 2, komentar ini menggunakan tanda "#"(hastag)
+c. Tipe 3, komentar ini menggunakan tanda "/**/"(gabungan bintang dan garing)
+
+Untuk implementasinya bisa dilihat pada file comment.php
