@@ -1,37 +1,38 @@
 <?php
-/**
-Secara umum tipe data variabel yang terdapat dalam bahasa pemrograman PHP adalah sebagai berikut:
-1. String
-2. Integer
-3. Double
-4. Boolean
-5. Array
-6. Object
-*/
 
 #String
-$nama = "Salman";
+$nama = "Almibi Akmal";
+echo"Ini tipe data STRING<br>";
 echo"Nama saya ".$nama."<br>";
+
 
 #Integer
 $a = 1;
 $b = 19;
 $umur = $a+$b;
+echo"<br>Ini tipe data INTEGER<br>";
 echo"Umur saya ".$umur."<br>";
+
 
 #Double
 $p = 178;
 $q = 0.5;
-$tinggi = $p + $q; 
+$tinggi = $p + $q;
+echo"<br>Ini tipe data DOUBLE<br>";
 echo"Tinggi saya ".$tinggi."<br>";
+
 
 #Boolean
 $status = true;
 if($status){
+	echo"<br>Ini tipe data BOOLEAN<br>";
 	echo"Selamat datang ".$nama."<br><br>";
 }
 
+
 #Array
+	echo"Ini tipe data ARRAY<br>";
+
 	//versi 1
 	$array1 = ["andi","budi","cindi","dede"];
 	echo"===============Array versi 1===============";

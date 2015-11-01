@@ -1,0 +1,9 @@
+Secara umum tipe data variabel yang terdapat dalam bahasa pemrograman PHP adalah sebagai berikut:
+1. String
+2. Integer
+3. Double
+4. Boolean
+5. Array
+6. Object
+
+Untuk implementasinya bisa lihat pada file variabel.php
